@@ -4,7 +4,7 @@
 ## AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=inertia kernel by azrim89
+kernel.string=siLonT kernel by azrim89
 do.devicecheck=1
 do.modules=0
 do.cleanup=1
